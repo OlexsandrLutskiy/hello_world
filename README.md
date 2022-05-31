@@ -1,1 +1,1 @@
-# hello_world
+# goit-java-hw-1
